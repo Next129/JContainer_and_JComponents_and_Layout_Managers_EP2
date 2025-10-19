@@ -1,2 +1,2 @@
 # JContainer_and_JComponents_and_Layout_Managers_EP2
-By observing the adjust panel, bar panel, control panel, and television, learners study JContainer, JComponents, and layout managers to understand GUI design. Participants will comprehend how components are organized within containers, how layout managers control placement, and how these principles produce efficient, structured, and visually coherent Java interfaces.
+By analyzing the adjust panel, bar panel, control panel, and television, participants study JContainer, JComponents, and layout managers. Learners will comprehend how GUI elements are systematically arranged, how containers manage component hierarchy, and how layout managers ensure organized, efficient, and visually coherent Java interface designs.
